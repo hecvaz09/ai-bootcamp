@@ -1,0 +1,3 @@
+Python is important.
+Bash is useful.
+I am learning to become an AI engineer.

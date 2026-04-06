@@ -1,0 +1,11 @@
+----- SERVER REPORT -----
+web1 (192.168.1.10) -> HEALTHY
+db1 (192.168.1.20) -> DOWN
+api1 (192.168.1.30) -> HEALTHY
+cache1 (192.168.1.40) -> HIGH CPU
+backup1 (192.168.1.50) -> DOWN
+
+----- SUMMARY -----
+Down servers: 2
+High CPU servers: 1
+Healthy servers: 2

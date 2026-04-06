@@ -1,0 +1,6 @@
+INFO: Server started
+ERROR: Disk almost full
+INFO: User login successful
+ERROR: Network timeout
+WARNING: CPU usage high
+ERROR: Disk almost full

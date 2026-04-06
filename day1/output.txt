@@ -1,0 +1,2 @@
+Hector is learning Python.
+He is working toward becoming an AI engineer.

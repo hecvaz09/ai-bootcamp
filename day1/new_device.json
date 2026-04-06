@@ -1,0 +1,10 @@
+{
+  "hostname": "web2",
+  "ip": "192.168.1.60",
+  "status": "down",
+  "cpu_usage": 92,
+  "services": [
+    "http",
+    "ssh"
+  ]
+}
