@@ -1,19 +1,17 @@
-# DAy 1 Notes
+# Day 1 Notes
 
-
-Today I practice:
+Today I practiced:
 - Python basics
 - Variables
-- Input and Output
-- If statements 
+- Input and output
+- If statements
 - Loops
-- Fuctions
+- Functions
 - Reading and writing files
 - CSV
 - JSON
 - API requests
-- Git and Github
+- Git and GitHub
 
-
-## What I learned 
-I can now write simple Python scripts, read data files, calll APIs, and push code to Github.
+## What I learned
+I can now write simple Python scripts, read data files, call APIs, and push code to GitHub.
