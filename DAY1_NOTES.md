@@ -17,3 +17,5 @@ Today I practiced:
 I can now write simple Python scripts, read data files, call APIs, and push code to GitHub.
 
 I succesfully pushed my AI bootcamp repo to GitHub.
+
+Next step: start Day 2 and keep building.
